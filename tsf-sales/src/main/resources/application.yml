@@ -1,0 +1,7 @@
+server:
+  port: 8092
+spring:
+  application:
+    name: tsf-sales
+logging:
+  file: /logs/tsf-test/${spring.application.name}/root.log

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/CountAndSay.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/doc/content/CountAndSay.md" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/CountAndSay.java" />
+              <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/SudokuSolver.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/doc/content/SudokuSolver.md" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/SudokuSolver.java" />
+              <option name="questionId" value="37" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/TrappingRainWater.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/doc/content/TrappingRainWater.md" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/TrappingRainWater.java" />
+              <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/ValidSudoku.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/doc/content/ValidSudoku.md" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode-question/src/com/unpisces/leetcode/editor/cn/ValidSudoku.java" />
+              <option name="questionId" value="36" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

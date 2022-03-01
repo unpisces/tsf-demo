@@ -1,0 +1,4 @@
+com\test\tsf\goods\service\GoodsService.class
+com\test\tsf\goods\controller\GoodsController.class
+com\test\tsf\goods\entity\Goods.class
+com\test\tsf\goods\GoodsApplication.class

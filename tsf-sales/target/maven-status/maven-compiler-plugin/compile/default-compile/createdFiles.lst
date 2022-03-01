@@ -1,0 +1,5 @@
+com\test\tsf\sales\entity\Sales.class
+com\test\tsf\sales\service\FeignService.class
+com\test\tsf\sales\service\SalesService.class
+com\test\tsf\sales\SalesApplication.class
+com\test\tsf\sales\controller\SalesController.class

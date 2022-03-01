@@ -1,0 +1,10 @@
+com\test\tsf\order\entity\Orders.class
+com\test\tsf\order\service\OrderService.class
+com\test\tsf\order\entity\Goods.class
+com\test\tsf\order\entity\UserTotal.class
+com\test\tsf\order\entity\Sales.class
+com\test\tsf\order\service\GoodsFeignService.class
+com\test\tsf\order\service\SalesFeignService.class
+com\test\tsf\order\entity\GoodNum.class
+com\test\tsf\order\OrderApplication.class
+com\test\tsf\order\controller\OrderController.class
